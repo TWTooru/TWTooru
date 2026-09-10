@@ -73,24 +73,37 @@ I'm also a long-time **photographer**. Photography trained me to observe environ
 
 ## ![Featured Projects](https://img.shields.io/badge/Featured_Projects-37474F?style=for-the-badge&logo=rocket&logoColor=white)
 
-### ![Private](https://img.shields.io/badge/Private-C62828?style=flat-square&logo=lock&logoColor=white) YMCA Student Management System — Changhua YMCA
+### ![Private](https://img.shields.io/badge/Private-C62828?style=flat-square&logo=lock&logoColor=white) YMCA Management Systems — Changhua YMCA
 
-During the **2026 summer internship** at **Changhua YMCA** (via Ching-Bao Foundation), I identified operational needs and led the planning and development of **two student management systems**, both of which are now **in production use**.
+During the **2026 summer internship** at **Changhua YMCA** (via Ching-Bao Foundation), I identified operational needs and led the planning and development of **two full-stack management systems**, both now **in production use**. The systems digitized previously paper-based and manual workflows — serving staff with varying levels of digital literacy, including senior learners.
 
-The systems digitized previously paper-based and manual workflows for student data entry, management, and querying — serving staff with varying levels of digital literacy, including senior learners.
+---
 
-#### Technical Details
+#### ![system1](https://img.shields.io/badge/System_1-2962FF?style=flat-square&logoColor=white) SeniorMember System
+
+![role](https://img.shields.io/badge/Solo_Full--Stack_Developer-2962FF?style=flat-square&logoColor=white) ![stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![stack](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![stack](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 | | |
 |---|---|
-| ![stack](https://img.shields.io/badge/-2962FF?style=flat-square&logo=react&logoColor=white) | **Full-stack**: React + Supabase + PostgreSQL |
-| ![feature](https://img.shields.io/badge/-00897B?style=flat-square&logo=materialdesignicons&logoColor=white) | Student data management, enrollment tracking, dashboard, Excel batch import/export |
-| ![security](https://img.shields.io/badge/-C62828?style=flat-square&logo=springsecurity&logoColor=white) | Composite-key identity matching, PostgreSQL Advisory Locks, 3-layer RBAC, Row Level Security |
-| ![testing](https://img.shields.io/badge/-43A047?style=flat-square&logo=testinglibrary&logoColor=white) | **240+ test cases**, ~86% coverage |
-| ![scale](https://img.shields.io/badge/-F57C00?style=flat-square&logo=codeclimate&logoColor=white) | **6,800+ LOC**, database migrations, layered architecture |
-| ![docs](https://img.shields.io/badge/-0288D1?style=flat-square&logo=readthedocs&logoColor=white) | Technical documentation, version control history, maintainability-focused |
+| ![feature](https://img.shields.io/badge/-00897B?style=flat-square&logo=materialdesignicons&logoColor=white) | Built a full-stack admin system (**6,800+ LOC, 240+ tests**) for student management, enrollment tracking, dashboards, and batch Excel import/export — digitized legacy paper-based workflows, improving data retrieval and archival efficiency by **~80%** |
+| ![security](https://img.shields.io/badge/-C62828?style=flat-square&logo=springsecurity&logoColor=white) | Designed concurrent-safe CSV import with **composite-key identity matching** and **PostgreSQL Advisory Locks**; implemented **three-tier RBAC** with **Row Level Security** |
+| ![arch](https://img.shields.io/badge/-F57C00?style=flat-square&logo=codeclimate&logoColor=white) | Applied layered architecture with **19 DB migrations**, custom multi-sheet Excel export engine, and **86% test-to-production code ratio** |
 
-#### My Role
+---
+
+#### ![system2](https://img.shields.io/badge/System_2-00897B?style=flat-square&logoColor=white) SocialEducationMember System
+
+![role](https://img.shields.io/badge/Solo_Full--Stack_Developer-00897B?style=flat-square&logoColor=white) ![stack](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![stack](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![stack](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+| | |
+|---|---|
+| ![feature](https://img.shields.io/badge/-00897B?style=flat-square&logo=materialdesignicons&logoColor=white) | Built a full-stack admin system (**7,000+ LOC, 240+ tests**) for student management, enrollment tracking, dashboards, and batch Excel import/export — digitized legacy paper-based workflows, improving data retrieval and archival efficiency by **~80%** |
+| ![extend](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=materialdesignicons&logoColor=white) | Extended the core system to a second center (Community Education) with additional **billing workflows**, **enrollment audit triggers**, and **28+ DB migrations (6,200+ lines SQL)** — demonstrating reusable architecture design |
+| ![security](https://img.shields.io/badge/-C62828?style=flat-square&logo=springsecurity&logoColor=white) | Designed concurrent-safe CSV import with **composite-key identity matching** and **PostgreSQL Advisory Locks**; implemented **three-tier RBAC** with **Row Level Security** |
+
+---
+
+#### My Role (Both Systems)
 
 | | |
 |---|---|
@@ -113,8 +126,8 @@ The systems digitized previously paper-based and manual workflows for student da
   TODO: Add system screenshots here
   Format: ![Screenshot description](path/to/screenshot.png)
   Example:
-  ![Dashboard overview](./assets/ymca-dashboard.png)
-  ![Student management screen](./assets/ymca-students.png)
+  ![SeniorMember Dashboard](./assets/ymca-senior-dashboard.png)
+  ![SocialEducation Enrollment](./assets/ymca-social-enrollment.png)
   ![Excel import interface](./assets/ymca-import.png)
 -->
 
