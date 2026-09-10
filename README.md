@@ -158,4 +158,135 @@ During the **2026 summer internship** at **Changhua YMCA** (via Ching-Bao Founda
 
 ### ![Public](https://img.shields.io/badge/Public-43A047?style=flat-square&logoColor=white) PhotoSorter
 
-**PhotoSorter** is a practical tool designed to organize and manage photo files more efficientl
+**PhotoSorter** is a practical tool designed to organize and manage photo files more efficiently — built from a real need in file and image management workflows.
+
+| | Highlights |
+|---|---|
+| ![folder](https://img.shields.io/badge/-0288D1?style=flat-square&logo=files&logoColor=white) | Automatic photo organization by metadata |
+| ![auto](https://img.shields.io/badge/-00897B?style=flat-square&logo=robotframework&logoColor=white) | File management automation |
+| ![fast](https://img.shields.io/badge/-F57C00?style=flat-square&logo=lightning&logoColor=white) | Reduces repetitive manual work |
+| ![solve](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=target&logoColor=white) | Requirements analysis and tool planning for a specific workflow problem |
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TWTooru/PhotoSorter)
+
+---
+
+### ![Public](https://img.shields.io/badge/Public-43A047?style=flat-square&logoColor=white) Tower of Heroes
+
+**Tower of Heroes** is a game development project exploring gameplay programming, systems design, and interactive software development.
+
+| | Highlights |
+|---|---|
+| ![game](https://img.shields.io/badge/-E91E63?style=flat-square&logo=gamemaker&logoColor=white) | Gameplay development |
+| ![system](https://img.shields.io/badge/-2962FF?style=flat-square&logo=unrealengine&logoColor=white) | Game system implementation |
+| ![logic](https://img.shields.io/badge/-00897B?style=flat-square&logo=thealgorithms&logoColor=white) | Programming logic and problem-solving |
+| ![iterate](https://img.shields.io/badge/-F57C00?style=flat-square&logo=githubactions&logoColor=white) | Learning through iterative development |
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NKUST-SAAD-16B/The-Tower-of-Heroes)
+
+---
+
+## ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-7C4DFF?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDguNzg0YTQuNDY3IDQuNDY3IDAgMCAxIDIuMzY2LTEuOTc3VjEyLjdhLjc5Ljc5IDAgMCAwIC4zOTIuNjgybDUuODIgMy4zNi0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDguNzg0em0xNi41OTcgMy44NTVsLTUuODMzLTMuMzdMMTUuMTI0IDguMWEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc5YTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Nzh6bTIuMDEtNC4xOTVsLS4xNDItLjA4NS00Ljc3My0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOC45NFY2LjYwOGEuMDguMDggMCAwIDEgLjAzMy0uMDYybDQuODQtMi43OTZhNC40OTkgNC40OTkgMCAwIDEgNi42NjYgNC42ODl6TTEyIDE0Ljg0OGwtMi44My0xLjYzNCAyLjgzLTEuNjM0IDIuODMgMS42MzR6Ii8%2BPC9zdmc%2B&logoColor=white)
+
+I position AI as a **development collaborator** — not a code generator. AI is integrated throughout my workflow, from initial brainstorming to final delivery, but I remain responsible for every decision and every line of code.
+
+### My AI-Assisted Workflow
+
+```
+Brainstorming          Design             Implementation Plan         Development
+┌──────────────┐    ┌──────────────┐    ┌──────────────────────┐    ┌──────────────┐
+│ Problem &     │    │ AI generates │    │ AI generates          │    │ AI-assisted  │
+│ requirement   │───▶│ design plan  │───▶│ implementation plan   │───▶│ coding with  │
+│ discussion    │    │ I review &   │    │ I verify architecture,│    │ my review,   │
+│ with AI       │    │ adjust       │    │ features & approach   │    │ test & debug │
+└──────────────┘    └──────────────┘    └──────────────────────┘    └──────────────┘
+```
+
+### Quality Control
+
+| | Practice |
+|---|---|
+| ![rules](https://img.shields.io/badge/-2962FF?style=flat-square&logo=eslint&logoColor=white) | Pre-established **coding, UI/UX, workflow, and review guidelines** for AI context |
+| ![review](https://img.shields.io/badge/-F57C00?style=flat-square&logo=githubactions&logoColor=white) | I **review, understand, and verify** all AI-generated code |
+| ![test](https://img.shields.io/badge/-43A047?style=flat-square&logo=testinglibrary&logoColor=white) | Manual testing, debugging, and integration — my responsibility |
+| ![git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white) | Full **Git history** tracking all modifications |
+| ![arch](https://img.shields.io/badge/-00897B?style=flat-square&logo=buildkite&logoColor=white) | AI works within **established architecture and development context** |
+
+### What I Don't Claim
+
+I don't claim all my code is purely hand-written. What I do ensure is that I **understand every implementation, evaluate every solution, test every result, and maintain every system** I deliver.
+
+> ![ai-philosophy](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDguNzg0YTQuNDY3IDQuNDY3IDAgMCAxIDIuMzY2LTEuOTc3VjEyLjdhLjc5Ljc5IDAgMCAwIC4zOTIuNjgybDUuODIgMy4zNi0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDguNzg0em0xNi41OTcgMy44NTVsLTUuODMzLTMuMzdMMTUuMTI0IDguMWEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc5YTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Nzh6bTIuMDEtNC4xOTVsLS4xNDItLjA4NS00Ljc3My0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOC45NFY2LjYwOGEuMDguMDggMCAwIDEgLjAzMy0uMDYybDQuODQtMi43OTZhNC40OTkgNC40OTkgMCAwIDEgNi42NjYgNC42ODl6TTEyIDE0Ljg0OGwtMi44My0xLjYzNCAyLjgzLTEuNjM0IDIuODMgMS42MzR6Ii8%2BPC9zdmc%2B&logoColor=white) **AI is a collaborator. Understanding, quality, and responsibility remain mine.**
+
+---
+
+## ![Work Experience](https://img.shields.io/badge/Work_Experience-37474F?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4%3D&logoColor=white)
+
+### ![ymca](https://img.shields.io/badge/-0288D1?style=flat-square&logo=materialdesignicons&logoColor=white) Changhua YMCA — System Development Intern (Summer 2026)
+
+Via Ching-Bao Foundation internship program. Planned and developed two student management systems now in production. Communicated directly with staff and senior learners to gather requirements and iterate on UI/UX based on real feedback.
+
+_→ See [YMCA project details](#-ymca-student-management-system--changhua-ymca) above._
+
+### ![nkust](https://img.shields.io/badge/-00897B?style=flat-square&logo=materialdesignicons&logoColor=white) NKUST — Public Relations Center, Student Worker
+
+Managed large volumes of news information and supported major campus events (graduation ceremonies, anniversary celebrations). Key experiences:
+
+| | |
+|---|---|
+| ![pressure](https://img.shields.io/badge/-C62828?style=flat-square&logo=materialdesignicons&logoColor=white) | Handled high-pressure, real-time problem-solving (e.g., solo-managed seating for 100+ graduates during weather disruption) |
+| ![comm](https://img.shields.io/badge/-2962FF?style=flat-square&logo=materialdesignicons&logoColor=white) | Translated complex information for diverse audiences across departments |
+| ![translate](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=materialdesignicons&logoColor=white) | Applied communication skills to IT support — understanding user problems before proposing technical solutions |
+
+---
+
+## ![Currently Learning](https://img.shields.io/badge/Currently_Learning-37474F?style=for-the-badge&logo=bookstack&logoColor=white)
+
+| | Area |
+|---|---|
+| ![fullstack](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) | Full-stack development (React + Supabase) |
+| ![python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) | Python development |
+| ![dev](https://img.shields.io/badge/-2962FF?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQtMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D&logoColor=white) | Software engineering practices |
+| ![git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white) | Git workflow & version management |
+| ![arch](https://img.shields.io/badge/-00897B?style=flat-square&logo=buildkite&logoColor=white) | System architecture & maintainable code |
+| ![ai](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDguNzg0YTQuNDY3IDQuNDY3IDAgMCAxIDIuMzY2LTEuOTc3VjEyLjdhLjc5Ljc5IDAgMCAwIC4zOTIuNjgybDUuODIgMy4zNi0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDguNzg0em0xNi41OTcgMy44NTVsLTUuODMzLTMuMzdMMTUuMTI0IDguMWEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc5YTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42Nzh6bTIuMDEtNC4xOTVsLS4xNDItLjA4NS00Ljc3My0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOC45NFY2LjYwOGEuMDguMDggMCAwIDEgLjAzMy0uMDYybDQuODQtMi43OTZhNC40OTkgNC40OTkgMCAwIDEgNi42NjYgNC42ODl6TTEyIDE0Ljg0OGwtMi44My0xLjYzNCAyLjgzLTEuNjM0IDIuODMgMS42MzR6Ii8%2BPC9zdmc%2B&logoColor=white) | AI-assisted development workflow |
+| ![debug](https://img.shields.io/badge/-F44336?style=flat-square&logo=bugcrowd&logoColor=white) | Debugging and problem-solving |
+
+---
+
+## ![Philosophy](https://img.shields.io/badge/Development_Philosophy-37474F?style=for-the-badge&logo=target&logoColor=white)
+
+I believe that programming is best learned by **building things that solve real problems**.
+
+What I've built is not just proficiency in a single language, but a complete development mindset:
+
+> **Understand the problem → Analyze requirements → Design architecture → Collaborate with AI → Implement & verify → Maintain & improve**
+
+The goal of development isn't just to write working code — it's to make technology **genuinely solve problems and deliver real value to users**.
+
+---
+
+## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-37474F?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TWTooru&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWTooru&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## ![Contact](https://img.shields.io/badge/Contact-37474F?style=for-the-badge&logo=gmail&logoColor=white)
+
+If you'd like to connect or discuss a project, feel free to reach out.
+
+| | Channel |
+|---|---|
+| ![github](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white) | [@TWTooru](https://github.com/TWTooru) |
+| ![email](https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white) | qwe123rrcc@gmail.com |
+| ![linkedin](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yNVYxMC45SDYuNDZNNy44NiA2LjMyYTEuNjQgMS42NCAwIDAgMC0xLjY2IDEuNjQgMS42NCAxLjY0IDAgMCAwIDEuNjYgMS42NSAxLjY0IDEuNjQgMCAwIDAgMS42Ni0xLjY1QTEuNjQgMS42NCAwIDAgMCA3Ljg2IDYuMzJaIi8%2BPC9zdmc%2B&logoColor=white) | [Tain-You Lin](https://www.linkedin.com/in/tain-you-lin-8b845b380/) |
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-2962FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Thanks"/>
+</p>
