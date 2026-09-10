@@ -1,163 +1,260 @@
-# Hi, I'm 天友 👋
-
-### Practical Software Developer | Information Management Student
-
-I'm **天友**, an Information Management student at **National Kaohsiung University of Science and Technology**.
-
-I enjoy turning ideas into practical software and learning through hands-on projects.
-My development experience includes desktop applications, game development, embedded systems, and real-world projects.
-
-I'm also interested in **AI-assisted development** and how AI can be effectively integrated into the software development process.
-
-> **Build. Learn. Improve.**
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Information Management student at National Kaohsiung University of Science and Technology
-* 💻 Interested in practical software development and problem solving
-* 🛠️ Enjoy building projects instead of only learning through theory
-* 🤖 Exploring **AI-assisted software development**
-* 📚 Currently improving my programming, software engineering, and Git/GitHub skills
-* 🚀 Always looking for opportunities to turn what I learn into real projects
-
----
-
-## 🧰 Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-### Exploring
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-![AI](https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge)
-
----
-
-# 🚀 Featured Projects
-
-## 📸 PhotoSorter
-
-**PhotoSorter** is a practical tool designed to help organize and manage photo files more efficiently.
-
-### Highlights
-
-* 📁 Automatic photo organization
-* 🗂️ File management automation
-* ⚡ Designed to reduce repetitive manual work
-* 🧩 Built as a practical solution to a real-world problem
-
-🔗 **Repository:** [View Project](#)
-
----
-
-## 🏰 Tower of Heroes
-
-**Tower of Heroes** is a game development project created to explore gameplay programming, systems design, and software development through an interactive project.
-
-### Highlights
-
-* 🎮 Gameplay development
-* ⚙️ Game system implementation
-* 🧠 Programming logic and problem solving
-* 🛠️ Learning through iterative development
-
-🔗 **Repository:** [View Project](#)
-
----
-
-## 🔒 Real-world Project Experience
-
-### YMCA Social Education Project
-
-Participated in the development of a **social education project for YMCA**.
-
-The project involved applying programming and information management knowledge to a real-world project environment.
-
-Due to **project privacy and data protection**, the source code and project data are not publicly available.
-
-> Private project — source code is not publicly available.
-
----
-
-# 🤖 AI-Assisted Development
-
-I use AI as a **development assistant**, while maintaining responsibility for understanding, testing, and improving the resulting software.
-
-My workflow may involve AI assistance for:
-
-* 💡 Brainstorming and solution exploration
-* 🧩 Breaking problems into smaller tasks
-* 🐛 Debugging and identifying potential issues
-* ♻️ Refactoring and improving existing code
-* 📖 Understanding unfamiliar technologies
-* 📝 Writing and improving documentation
-* 🔍 Reviewing implementation approaches
-
-I don't describe my projects as entirely "hand-written code."
-
-Instead, I focus on being able to **understand the implementation, evaluate solutions, test the results, and continue improving the software**.
-
-> **AI is a tool. Understanding the software is still my responsibility.**
-
----
-
-# 📚 Currently Learning
-
-I'm currently focusing on improving my skills in:
-
-* 🐍 Python development
-* 💻 Software development practices
-* 🌳 Git & GitHub workflow
-* 🧱 Project structure and maintainable code
-* 🐛 Debugging and problem solving
-* 🤖 AI-assisted development
-* 🔌 Embedded development with ESP32
-
----
-
-# 🎯 My Development Philosophy
-
-I believe that programming is best learned by **building things**.
-
-Rather than only focusing on knowing a programming language, I want to understand how to:
-
-> **Identify a problem → Design a solution → Build it → Test it → Improve it**
-
-Every project is an opportunity to learn something new and become a better developer.
-
----
-
-# 📊 GitHub Stats
+<h1 align="center">
+  Hi, I'm 天友 (Tian-You)
+  <br/>
+  <img src="https://img.shields.io/badge/Practical_Software_Developer-2962FF?style=flat-square&logo=materialdesignicons&logoColor=white" alt="Practical Software Developer"/>
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://img.shields.io/badge/Information_Management-NKUST-0288D1?style=flat-square&logo=googlescholar&logoColor=white" alt="NKUST"/>
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-7C4DFF?style=flat-square&logo=openai&logoColor=white" alt="AI-Assisted Development"/>
+  <img src="https://img.shields.io/badge/From-Changhua,_Taiwan-00897B?style=flat-square&logo=googlemaps&logoColor=white" alt="Changhua"/>
+</p>
+
+<p align="center">
+  A practical developer who values implementation and problem-solving over theory alone.<br/>
+  I build software that solves real problems — starting from <strong>user needs and actual workflows</strong>,<br/>
+  then translating requirements into technical solutions through continuous testing and iteration.
+</p>
+
+<p align="center"><em>Build. Verify. Improve.</em></p>
+
+---
+
+## ![About](https://img.shields.io/badge/About_Me-37474F?style=for-the-badge&logo=materialdesignicons&logoColor=white)
+
+I'm **林天友 (Tian-You Lin)**, an Information Management student at **National Kaohsiung University of Science and Technology (NKUST)**, from Changhua, Taiwan.
+
+I believe technical ability comes from **continuous accumulation and hands-on verification**. When facing unfamiliar domains, I start from the problem's essence and underlying logic — researching, experimenting, and validating until I build a solid understanding, rather than staying within a comfortable technical scope.
+
+I'm also a long-time **photographer**. Photography trained me to observe environments and understand users from an outsider's perspective. This carries over into my development work — I don't just ask _"does the feature work?"_ but also consider _"is the information presented clearly? Is the workflow intuitive? Can different users actually complete their tasks in real-world scenarios?"_
+
+- ![code](https://img.shields.io/badge/-2962FF?style=flat-square&logo=visualstudiocode&logoColor=white) Development driven by **user needs, workflows, and real-world context**
+- ![build](https://img.shields.io/badge/-00897B?style=flat-square&logo=hackthebox&logoColor=white) Systems delivered to **production** and used by real users
+- ![ai](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=openai&logoColor=white) **AI-assisted development** as an integrated part of my workflow
+- ![camera](https://img.shields.io/badge/-F57C00?style=flat-square&logo=unsplash&logoColor=white) Photography background shaping my **UI/UX awareness**
+- ![git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white) Emphasis on **version control, documentation, and maintainability**
+- ![target](https://img.shields.io/badge/-43A047?style=flat-square&logo=target&logoColor=white) Goal: make technology **actually solve problems** and deliver value
+
+---
+
+## ![Tech Stack](https://img.shields.io/badge/Tech_Stack-37474F?style=for-the-badge&logo=stackoverflow&logoColor=white)
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend & Backend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Practices
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AI Dev](https://img.shields.io/badge/AI--Assisted_Dev-7C4DFF?style=for-the-badge&logo=openai&logoColor=white)
+
+
+### Past Experience
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Integration-455A64?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0288D1?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## ![Featured Projects](https://img.shields.io/badge/Featured_Projects-37474F?style=for-the-badge&logo=rocket&logoColor=white)
+
+### ![Private](https://img.shields.io/badge/Private-C62828?style=flat-square&logo=lock&logoColor=white) YMCA Student Management System — Changhua YMCA
+
+During the **2026 summer internship** at **Changhua YMCA** (via Ching-Bao Foundation), I identified operational needs and led the planning and development of **two student management systems**, both of which are now **in production use**.
+
+The systems digitized previously paper-based and manual workflows for student data entry, management, and querying — serving staff with varying levels of digital literacy, including senior learners.
+
+#### Technical Details
+
+| | |
+|---|---|
+| ![stack](https://img.shields.io/badge/-2962FF?style=flat-square&logo=react&logoColor=white) | **Full-stack**: React + Supabase + PostgreSQL |
+| ![feature](https://img.shields.io/badge/-00897B?style=flat-square&logo=materialdesignicons&logoColor=white) | Student data management, enrollment tracking, dashboard, Excel batch import/export |
+| ![security](https://img.shields.io/badge/-C62828?style=flat-square&logo=springsecurity&logoColor=white) | Composite-key identity matching, PostgreSQL Advisory Locks, 3-layer RBAC, Row Level Security |
+| ![testing](https://img.shields.io/badge/-43A047?style=flat-square&logo=testinglibrary&logoColor=white) | **240+ test cases**, ~86% coverage |
+| ![scale](https://img.shields.io/badge/-F57C00?style=flat-square&logo=codeclimate&logoColor=white) | **6,800+ LOC**, database migrations, layered architecture |
+| ![docs](https://img.shields.io/badge/-0288D1?style=flat-square&logo=readthedocs&logoColor=white) | Technical documentation, version control history, maintainability-focused |
+
+#### My Role
+
+| | |
+|---|---|
+| ![plan](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=trello&logoColor=white) | Requirements gathering, feature planning, system architecture & data structure design |
+| ![manage](https://img.shields.io/badge/-2962FF?style=flat-square&logo=jirasoftware&logoColor=white) | Development workflow planning & management |
+| ![ai](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=openai&logoColor=white) | AI-assisted development integrated into the full workflow |
+| ![review](https://img.shields.io/badge/-F57C00?style=flat-square&logo=codereview&logoColor=white) | Code review, testing, debugging & integration — all my responsibility |
+| ![ux](https://img.shields.io/badge/-00897B?style=flat-square&logo=figma&logoColor=white) | UX adjustments based on direct feedback from staff and senior learners |
+
+> ![note](https://img.shields.io/badge/Note-455A64?style=flat-square&logo=shieldsdotio&logoColor=white) Source code is not publicly available due to project privacy and data protection policies.
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/View_System_Screenshots-37474F?style=flat-square&logo=image&logoColor=white" alt="Screenshots"/>
+</summary>
+
+<br/>
+
+<!-- 
+  TODO: Add system screenshots here
+  Format: ![Screenshot description](path/to/screenshot.png)
+  Example:
+  ![Dashboard overview](./assets/ymca-dashboard.png)
+  ![Student management screen](./assets/ymca-students.png)
+  ![Excel import interface](./assets/ymca-import.png)
+-->
+
+_Screenshots coming soon._
+
+</details>
+
+---
+
+### ![Public](https://img.shields.io/badge/Public-43A047?style=flat-square&logoColor=white) PhotoSorter
+
+**PhotoSorter** is a practical tool designed to organize and manage photo files more efficiently — built from a real need in file and image management workflows.
+
+| | Highlights |
+|---|---|
+| ![folder](https://img.shields.io/badge/-0288D1?style=flat-square&logo=files&logoColor=white) | Automatic photo organization by metadata |
+| ![auto](https://img.shields.io/badge/-00897B?style=flat-square&logo=automationanywhere&logoColor=white) | File management automation |
+| ![fast](https://img.shields.io/badge/-F57C00?style=flat-square&logo=lightning&logoColor=white) | Reduces repetitive manual work |
+| ![solve](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=target&logoColor=white) | Requirements analysis and tool planning for a specific workflow problem |
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TWTooru/PhotoSorter)
+
+---
+
+### ![Public](https://img.shields.io/badge/Public-43A047?style=flat-square&logoColor=white) Tower of Heroes
+
+**Tower of Heroes** is a game development project exploring gameplay programming, systems design, and interactive software development.
+
+| | Highlights |
+|---|---|
+| ![game](https://img.shields.io/badge/-E91E63?style=flat-square&logo=gamemaker&logoColor=white) | Gameplay development |
+| ![system](https://img.shields.io/badge/-2962FF?style=flat-square&logo=unrealengine&logoColor=white) | Game system implementation |
+| ![logic](https://img.shields.io/badge/-00897B?style=flat-square&logo=thealgorithms&logoColor=white) | Programming logic and problem-solving |
+| ![iterate](https://img.shields.io/badge/-F57C00?style=flat-square&logo=cicd&logoColor=white) | Learning through iterative development |
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NKUST-SAAD-16B/The-Tower-of-Heroes)
+
+---
+
+## ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-7C4DFF?style=for-the-badge&logo=openai&logoColor=white)
+
+I position AI as a **development collaborator** — not a code generator. AI is integrated throughout my workflow, from initial brainstorming to final delivery, but I remain responsible for every decision and every line of code.
+
+### My AI-Assisted Workflow
+
+```
+Brainstorming          Design             Implementation Plan         Development
+┌──────────────┐    ┌──────────────┐    ┌──────────────────────┐    ┌──────────────┐
+│ Problem &     │    │ AI generates │    │ AI generates          │    │ AI-assisted  │
+│ requirement   │───▶│ design plan  │───▶│ implementation plan   │───▶│ coding with  │
+│ discussion    │    │ I review &   │    │ I verify architecture,│    │ my review,   │
+│ with AI       │    │ adjust       │    │ features & approach   │    │ test & debug │
+└──────────────┘    └──────────────┘    └──────────────────────┘    └──────────────┘
+```
+
+### Quality Control
+
+| | Practice |
+|---|---|
+| ![rules](https://img.shields.io/badge/-2962FF?style=flat-square&logo=eslint&logoColor=white) | Pre-established **coding, UI/UX, workflow, and review guidelines** for AI context |
+| ![review](https://img.shields.io/badge/-F57C00?style=flat-square&logo=codereview&logoColor=white) | I **review, understand, and verify** all AI-generated code |
+| ![test](https://img.shields.io/badge/-43A047?style=flat-square&logo=testinglibrary&logoColor=white) | Manual testing, debugging, and integration — my responsibility |
+| ![git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white) | Full **Git history** tracking all modifications |
+| ![arch](https://img.shields.io/badge/-00897B?style=flat-square&logo=buildkite&logoColor=white) | AI works within **established architecture and development context** |
+
+### What I Don't Claim
+
+I don't claim all my code is purely hand-written. What I do ensure is that I **understand every implementation, evaluate every solution, test every result, and maintain every system** I deliver.
+
+> ![ai-philosophy](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=openai&logoColor=white) **AI is a collaborator. Understanding, quality, and responsibility remain mine.**
+
+---
+
+## ![Work Experience](https://img.shields.io/badge/Work_Experience-37474F?style=for-the-badge&logo=briefcase&logoColor=white)
+
+### ![ymca](https://img.shields.io/badge/-0288D1?style=flat-square&logo=materialdesignicons&logoColor=white) Changhua YMCA — System Development Intern (Summer 2026)
+
+Via Ching-Bao Foundation internship program. Planned and developed two student management systems now in production. Communicated directly with staff and senior learners to gather requirements and iterate on UI/UX based on real feedback.
+
+_→ See [YMCA project details](#-ymca-student-management-system--changhua-ymca) above._
+
+### ![nkust](https://img.shields.io/badge/-00897B?style=flat-square&logo=materialdesignicons&logoColor=white) NKUST — Public Relations Center, Student Worker
+
+Managed large volumes of news information and supported major campus events (graduation ceremonies, anniversary celebrations). Key experiences:
+
+| | |
+|---|---|
+| ![pressure](https://img.shields.io/badge/-C62828?style=flat-square&logo=materialdesignicons&logoColor=white) | Handled high-pressure, real-time problem-solving (e.g., solo-managed seating for 100+ graduates during weather disruption) |
+| ![comm](https://img.shields.io/badge/-2962FF?style=flat-square&logo=materialdesignicons&logoColor=white) | Translated complex information for diverse audiences across departments |
+| ![translate](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=materialdesignicons&logoColor=white) | Applied communication skills to IT support — understanding user problems before proposing technical solutions |
+
+---
+
+## ![Currently Learning](https://img.shields.io/badge/Currently_Learning-37474F?style=for-the-badge&logo=bookstack&logoColor=white)
+
+| | Area |
+|---|---|
+| ![fullstack](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black) | Full-stack development (React + Supabase) |
+| ![python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) | Python development |
+| ![dev](https://img.shields.io/badge/-2962FF?style=flat-square&logo=visualstudiocode&logoColor=white) | Software engineering practices |
+| ![git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white) | Git workflow & version management |
+| ![arch](https://img.shields.io/badge/-00897B?style=flat-square&logo=buildkite&logoColor=white) | System architecture & maintainable code |
+| ![ai](https://img.shields.io/badge/-7C4DFF?style=flat-square&logo=openai&logoColor=white) | AI-assisted development workflow |
+| ![debug](https://img.shields.io/badge/-F44336?style=flat-square&logo=bugcrowd&logoColor=white) | Debugging and problem-solving |
+
+---
+
+## ![Philosophy](https://img.shields.io/badge/Development_Philosophy-37474F?style=for-the-badge&logo=target&logoColor=white)
+
+I believe that programming is best learned by **building things that solve real problems**.
+
+What I've built is not just proficiency in a single language, but a complete development mindset:
+
+> **Understand the problem → Analyze requirements → Design architecture → Collaborate with AI → Implement & verify → Maintain & improve**
+
+The goal of development isn't just to write working code — it's to make technology **genuinely solve problems and deliver real value to users**.
+
+---
+
+## ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-37474F?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TWTooru&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWTooru&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-# 📫 Contact
+## ![Contact](https://img.shields.io/badge/Contact-37474F?style=for-the-badge&logo=gmail&logoColor=white)
 
 If you'd like to connect or discuss a project, feel free to reach out.
 
-* 💻 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* 📧 Email: YOUR_EMAIL
-* 🔗 LinkedIn: YOUR_LINKEDIN
+| | Channel |
+|---|---|
+| ![github](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white) | [@TWTooru](https://github.com/TWTooru) |
+| ![email](https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white) | qwe123rrcc@gmail.com |
+| ![linkedin](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [Tain-You Lin](https://www.linkedin.com/in/tain-you-lin-8b845b380/) |
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-2962FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Thanks"/>
 </p>
