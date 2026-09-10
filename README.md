@@ -122,16 +122,35 @@ During the **2026 summer internship** at **Changhua YMCA** (via Ching-Bao Founda
 
 <br/>
 
-<!-- 
-  TODO: Add system screenshots here
-  Format: ![Screenshot description](path/to/screenshot.png)
-  Example:
-  ![SeniorMember Dashboard](./assets/ymca-senior-dashboard.png)
-  ![SocialEducation Enrollment](./assets/ymca-social-enrollment.png)
-  ![Excel import interface](./assets/ymca-import.png)
--->
+<h4>SeniorMember System</h4>
 
-_Screenshots coming soon._
+<p>
+  <img src="./img/Senior.jpg" width="48%" alt="Dashboard — Seasonal overview and overall KPI metrics"/>
+  &nbsp;
+  <img src="./img/Senior2.jpg" width="48%" alt="Student list — Full-text search with multi-filter support"/>
+</p>
+<p align="center"><sub><b>Left:</b> Dashboard — Seasonal overview & KPI metrics &nbsp;|&nbsp; <b>Right:</b> Student List — Full-text search & multi-dimensional filtering</sub></p>
+
+<p>
+  <img src="./img/Senior3.jpg" width="48%" alt="CSV import preview — Batch validation with add/update summary"/>
+</p>
+<p align="center"><sub>CSV Import Preview — Batch validation with new/update statistics</sub></p>
+
+<h4>SocialEducationMember System</h4>
+
+<p>
+  <img src="./img/social.jpg" width="48%" alt="Dashboard — KPI, enrollment trends and demographic analysis"/>
+  &nbsp;
+  <img src="./img/social2.jpg" width="48%" alt="Student list — Search and data management interface"/>
+</p>
+<p align="center"><sub><b>Left:</b> Dashboard — KPI, enrollment trends & demographic analysis &nbsp;|&nbsp; <b>Right:</b> Student List — Member search & data management</sub></p>
+
+<p>
+  <img src="./img/social3.jpg" width="48%" alt="Member import — Composite-key identity matching results"/>
+</p>
+<p align="center"><sub>Member Import — Composite-key identity matching & validation</sub></p>
+
+> ![note](https://img.shields.io/badge/Note-455A64?style=flat-square&logo=shieldsdotio&logoColor=white) Sensitive data has been redacted in all screenshots.
 
 </details>
 
