@@ -24,21 +24,20 @@
 
 **程式語言**
 
-[![Languages](https://skillicons.dev/icons?i=py,cs,js,cpp,postgres)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cs,js,cpp,html,css)](https://skillicons.dev)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **前端與後端**
 
-[![Frontend & Backend](https://skillicons.dev/icons?i=react,supabase,postgres)](https://skillicons.dev)
+[![Frontend & Backend](https://skillicons.dev/icons?i=react,vite,tailwind,supabase,postgres)](https://skillicons.dev)
 
 **開發工具**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,unreal,godot,androidstudio)](https://skillicons.dev)
 
 **過往經驗與硬體整合**
 
-[![Infra](https://skillicons.dev/icons?i=linux,ubuntu)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=linux,ubuntu,arduino,firebase,gradle)](https://skillicons.dev)
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![IoT Integration](https://img.shields.io/badge/IoT_整合-455A64?style=flat&logo=homeassistant&logoColor=white)
@@ -48,48 +47,12 @@
 
 ## 🚀 做過的東西
 
-### 私有專案（受專案隱私與資料保護規範限制）
 
 在 **2026 年暑期實習**（透過慶寶勤勞基金會於**彰化 YMCA** 實習）期間，我主動盤點現場作業痛點，獨立規劃並開發了**兩套全端管理系統**（`React`、`Supabase`、`PostgreSQL`），目前皆已**正式上線投入日常營運**，將過去依賴紙本與人工核對的流程全面數位化，服務包含高齡學員與不同數位熟悉度的行政人員。
 
 - **`SeniorMember System`（樂齡學員管理系統）** —— 獨立開發的全端管理後台（**6,800+ 行程式碼、240+ 項測試**），涵蓋學員管理、選課追蹤、KPI 儀表板與批次 Excel 匯入／匯出，將資料檢索與歸檔效率提升約 **80%**。採用分層架構與 **19 個資料庫 Migration**、客製化多工作表 Excel 匯出引擎、支援高併發安全的 CSV 匯入機制（**複合鍵身分比對 + PostgreSQL Advisory Locks**），並實作**三層式 RBAC 權限控管與 Row Level Security (RLS)**，測試與產品程式碼比例達 **86%**。
 - **`SocialEducationMember System`（社教學員管理系統）** —— 將核心架構延伸至第二個業務中心（社會教育中心）（**7,000+ 行程式碼、240+ 項測試**），擴充了**收費與帳務工作流**、**選課異動稽核觸發器（Audit Triggers）** 與 **28+ 個資料庫 Migration（6,200+ 行 SQL）**，驗證了架構的可重用性與跨單位擴展能力。
-
-<details>
-<summary>🖼️ <b>查看 YMCA 系統畫面截圖</b> <i>（敏感資料皆已去識別化處理）</i></summary>
-
-<br/>
-
-#### SeniorMember System
-
-| 儀表板（總覽與 KPI 指標） | 學員列表（搜尋與多維度篩選） |
-| :---: | :---: |
-| <img src="./img/Senior.jpg" width="100%" alt="SeniorMember Dashboard"/> | <img src="./img/Senior2.jpg" width="100%" alt="SeniorMember Student List"/> |
-| <sub>學期總覽與核心指標統計</sub> | <sub>全文檢索與多條件篩選</sub> |
-
-| CSV 批次匯入驗證 |
-| :---: |
-| <img src="./img/Senior3.jpg" width="60%" alt="SeniorMember CSV Import"/> |
-| <sub>批次資料驗證與新增／更新統計預覽</sub> |
-
-<br/>
-
-#### SocialEducationMember System
-
-| 儀表板（總覽與數據分析） | 會員列表（搜尋與資料管理） |
-| :---: | :---: |
-| <img src="./img/social.jpg" width="100%" alt="SocialEducation Dashboard"/> | <img src="./img/social2.jpg" width="100%" alt="SocialEducation Member List"/> |
-| <sub>KPI、報名趨勢與人口統計分析</sub> | <sub>會員檢索與資料管理</sub> |
-
-| 會員匯入驗證 |
-| :---: |
-| <img src="./img/social3.jpg" width="60%" alt="SocialEducation Member Import"/> |
-| <sub>複合鍵身分比對與匯入前驗證</sub> |
-
-</details>
-
-### 公開專案
-
+- 
 - **[`PhotoSorter`](https://github.com/TWTooru/PhotoSorter)** —— 從自身攝影與檔案管理工作流痛點出發所開發的自動化工具。能依據照片 Metadata 自動分類與歸檔整理，大幅減少重複搬移與人工整理的時間。
 - **[`Tower of Heroes`](https://github.com/NKUST-SAAD-16B/The-Tower-of-Heroes)** —— 遊戲開發專案，探索遊戲玩法程式設計、模組化系統實作，以及透過迭代開發解決複雜邏輯問題。
 
@@ -104,7 +67,7 @@
 
 ---
 
-## 🤖 我如何和 Claude Code / AI Agents 共同協作
+## 🤖 我如何和 AI Agents 共同協作
 
 底下是我實際裝著在用的插件與 Skill 清單，也推薦給大家參考：
 每個 session 的核心開發流程都由 **superpowers** 驅動；碰到全端資料庫與 RLS 權限時會叫出 **supabase/agent-skills**；做遊戲開發時則有專屬的 **awesome-gamedev-agent-skills** 工具箱。
