@@ -25,71 +25,33 @@ Off the clock, I'm a long-time **photographer**. Photography trained me to obser
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,cs,js,cpp,postgres)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cs,js,cpp,html,css)](https://skillicons.dev)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frontend & Backend**
 
-[![Frontend & Backend](https://skillicons.dev/icons?i=react,supabase,postgres)](https://skillicons.dev)
+[![Frontend & Backend](https://skillicons.dev/icons?i=react,vite,tailwind,supabase,postgres)](https://skillicons.dev)
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,unreal,godot,androidstudio)](https://skillicons.dev)
 
 **Past Experience & Hardware**
 
-[![Infra](https://skillicons.dev/icons?i=linux,ubuntu)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=linux,ubuntu,arduino,firebase,gradle)](https://skillicons.dev)
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![IoT Integration](https://img.shields.io/badge/IoT_Integration-455A64?style=flat&logo=homeassistant&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0288D1?style=flat&logo=cisco&logoColor=white)
+![IoT Integration](https://img.shields.io/badge/IoT_整合-455A64?style=flat&logo=homeassistant&logoColor=white)
+![Networking](https://img.shields.io/badge/網路架設與管理-0288D1?style=flat&logo=cisco&logoColor=white)
 
 ---
 
 ## 🚀 What I've Built
 
-### Private work (production systems under data protection policies)
-
 During my **2026 summer internship** at **Changhua YMCA** (via the Ching-Bao Foundation), I identified operational bottlenecks and solo-architected **two full-stack management systems** (`React`, `Supabase`, `PostgreSQL`) — both deployed to production and actively used by staff and senior learners.
 
 - **`SeniorMember System`** — full-stack administrative platform (**6,800+ LOC, 240+ tests**) for student management, enrollment tracking, KPI dashboards, and batch Excel import/export. Digitized legacy paper-based workflows and improved data retrieval and archival efficiency by **~80%**. Built with a layered architecture across **19 DB migrations**, a custom multi-sheet Excel export engine, concurrent-safe CSV import (**composite-key identity matching + PostgreSQL Advisory Locks**), **three-tier RBAC with Row Level Security (RLS)**, and an **86% test-to-production code ratio**.
 - **`SocialEducationMember System`** — extended the core architecture to a second center (Community Education) (**7,000+ LOC, 240+ tests**) with additional **billing workflows**, **enrollment audit triggers**, and **28+ DB migrations (6,200+ lines of SQL)**, demonstrating a reusable, multi-center architecture while maintaining the same concurrent-safe import and RLS security guarantees.
-
-<details>
-<summary>🖼️ <b>View YMCA System Screenshots</b> <i>(sensitive data redacted)</i></summary>
-
-<br/>
-
-#### SeniorMember System
-
-| Dashboard (Overview & KPI) | Student List (Search & Filter) |
-| :---: | :---: |
-| <img src="./img/Senior.jpg" width="100%" alt="SeniorMember Dashboard"/> | <img src="./img/Senior2.jpg" width="100%" alt="SeniorMember Student List"/> |
-| <sub>Seasonal overview & KPI metrics</sub> | <sub>Full-text search & multi-dimensional filtering</sub> |
-
-| CSV Import Validation |
-| :---: |
-| <img src="./img/Senior3.jpg" width="60%" alt="SeniorMember CSV Import"/> |
-| <sub>Batch validation with new/update statistics</sub> |
-
-<br/>
-
-#### SocialEducationMember System
-
-| Dashboard (Overview & Analytics) | Member List (Search & Management) |
-| :---: | :---: |
-| <img src="./img/social.jpg" width="100%" alt="SocialEducation Dashboard"/> | <img src="./img/social2.jpg" width="100%" alt="SocialEducation Member List"/> |
-| <sub>KPI, enrollment trends & demographic analysis</sub> | <sub>Member search & data management</sub> |
-
-| Member Import Validation |
-| :---: |
-| <img src="./img/social3.jpg" width="60%" alt="SocialEducation Member Import"/> |
-| <sub>Composite-key identity matching & validation</sub> |
-
-</details>
-
-### Public
 
 - **[`PhotoSorter`](https://github.com/TWTooru/PhotoSorter)** — a practical file-automation utility built out of real photography workflow needs. Automatically organizes and sorts photo files using metadata to cut out repetitive manual file management.
 - **[`Tower of Heroes`](https://github.com/NKUST-SAAD-16B/The-Tower-of-Heroes)** — game development project exploring gameplay programming, modular game systems design, and iterative software development.
